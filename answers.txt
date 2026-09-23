@@ -8,3 +8,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: ML
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: both combine a merge one branch into another
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning!!!!
